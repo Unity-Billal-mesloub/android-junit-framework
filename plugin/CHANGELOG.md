@@ -3,6 +3,9 @@ Change Log
 
 ## Unreleased
 
+## 2.0.1 (2026-01-14)
+- This release is identical to 2.0.0 in regard to the plugin, as it only resolves an issue with packaging of the associated instrumentation libraries
+
 ## 2.0.0 (2026-01-01)
 - Update to Kotlin 2.3
 - Internal: Replace deprecated `OutputDirectoryProvider` with its correct replacement
